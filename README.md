@@ -23,6 +23,8 @@ Or install it yourself as:
     app/assets/javascripts/application.js
 
     //= require ext-all
+    // Polish Translations:
+    //= require locale/ext-lang-pl.js
 
     app/assets/stylesheets/application.css
 
